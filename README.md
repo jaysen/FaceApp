@@ -1,6 +1,7 @@
-An adaptation of the port of the XCode RoundedDisplayWindow sample from MonoMacSamples
-http://developer.apple.com/library/mac/#samplecode/RoundTransparentWindow/Introduction/Intro.html
-Slightly updated to avoid using the deprecated APIs in the sample.
+## README
+A MonoMac test app, based on an the port of the XCode RoundedDisplayWindow sample from MonoMacSamples
+https://github.com/mono/monomac/tree/master/samples/RoundedTransparentWindow
 
-And updated with a custom transparent shape for window ..
+Updated with a custom transparent shape for window - Not for anyone with a weak stomach!
 
+Should make a good template for a scary set of personal custom mac apps
