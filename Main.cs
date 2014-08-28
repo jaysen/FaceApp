@@ -25,6 +25,7 @@ namespace FaceApp
         public override void AwakeFromNib ()
         {
             base.AwakeFromNib ();
+            AlphaValue = 0.90f;
             slider.Activated += delegate {
                 AlphaValue = slider.FloatValue;
             };
